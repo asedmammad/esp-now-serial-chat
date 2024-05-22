@@ -1,6 +1,6 @@
 # ESP-NOW Serial Chat using Two ESP8266 Devices
 
-This repository contains an simple code that demonstrates how to use Espressif's ESP-NOW protocol to establish a chat application between two ESP8266 devices. This can be used to send and receive messages in serial communication softwares (serial monitor).
+This repository contains a simple code that demonstrates how to use Espressif's ESP-NOW protocol to establish a chat application between two ESP8266 devices. This can be used to send and receive messages using serial communication softwares (Arduino IDE's serial monitor, etc.).
 
 **Hardware Requirements**
 
